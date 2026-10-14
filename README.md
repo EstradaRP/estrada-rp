@@ -32,7 +32,7 @@ Não publique backups ou dados pessoais em issues, comentários ou canais públi
 
 Aplicativo: **Equipe Estrada RP**, com apoio de OpenAI Codex e ferramentas de IA.
 
-Conceito e regras originais: **Restanho, o Tio Restanho**. Telemetria: **TruckTel, de Jeroen van Straten**, com licenças e avisos preservados.
+Conceito e regras originais: **Restanho.*. Telemetria: **TruckTel, de Jeroen van Straten**, com licenças e avisos preservados.
 
 Uso pessoal gratuito conforme LICENCA.txt incluída no pacote. Repositório público não significa licença de código aberto para o aplicativo. Consulte PRIVACIDADE.txt, SUPORTE.txt e os avisos de terceiros na distribuição.
 
