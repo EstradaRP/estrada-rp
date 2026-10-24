@@ -2,15 +2,19 @@
 
 Gestor de campanha do modo Carreira/Realista para Euro Truck Simulator 2. Organize viagens, receitas, despesas, dias trabalhados, descansos e progressão da campanha, com registros manuais e captura local de dados do ETS2.
 
-## Download — 1.3.0-beta.1
+## Download — 1.3.1-beta.1
 
-[**Baixar o beta público e consultar as notas**](https://github.com/EstradaRP/estrada-rp/releases/tag/v1.3.0-beta.1)
+[**Baixar o beta público e consultar as notas**](https://github.com/EstradaRP/estrada-rp/releases/tag/v1.3.1-beta.1)
 
-Escolha **Estrada_RP_1.3.0-beta.1_Windows.zip** nos anexos da release. Extraia o pacote completo e leia COMECE-AQUI.md. Guia, notas, licença, privacidade, suporte e avisos de terceiros estão incluídos. O arquivo SHA-256 permite conferir a integridade do download.
+Escolha **Estrada_RP_1.3.1-beta.1_Windows.zip** nos anexos da release. Extraia o pacote completo e leia COMECE-AQUI.md. Guia, notas, licença, privacidade, suporte e avisos de terceiros estão incluídos. O arquivo SHA-256 permite conferir a integridade do download.
 
 Este repositório reúne a distribuição pública e a documentação. O código-fonte próprio do aplicativo não é disponibilizado aqui. Os anexos automáticos “Source code” do GitHub não contêm o aplicativo Windows.
 
-## Novidades desta edição
+## Correção desta edição
+
+Corrige o preenchimento da entrega após avançar o dia do jogo ou alterar o dia nas configurações. Um registro manual em edição continua protegido; use **Revisar captura guardada** para revisar a entrega pendente. Revise antes da próxima entrega.
+
+## Recursos mantidos da versão 1.3
 
 - Temas Claro/Escuro, com preferência preservada.
 - Múltiplas carreiras locais, com viagens, regras e finanças separadas.
@@ -30,7 +34,7 @@ Importar permite criar uma nova carreira ou substituir explicitamente uma escolh
 
 ## Estado do beta
 
-Esta é uma edição beta pública. A base rc.3 recebeu aceite real da correção Discord; o novo pacote passou por testes de integração com perfil artificial, abertura e integridade. Testes reais anteriores ocorreram em Windows 11. Windows 10 não homologado e integração ETS2 em uma terceira máquina ainda sem resultado registrado. Consulte a cobertura detalhada nas notas da release.
+Esta é uma edição beta pública. A correção de captura recebeu aceite em uma viagem real com avanço de dia. Quatro entregas simuladas consecutivas e a abertura do portátil também foram verificadas. O acompanhamento em gameplay continua. Testes reais anteriores ocorreram em Windows 11. Windows 10 não homologado e integração ETS2 em uma terceira máquina ainda sem resultado registrado. Consulte a cobertura detalhada nas notas da release.
 
 ## Comunidade e suporte
 
